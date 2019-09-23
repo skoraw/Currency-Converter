@@ -1,0 +1,19 @@
+{
+  "code": "USD",
+  "currency": "dolar amerykański",
+  "rates": [
+    {
+      "ask": 3.8705,
+      "bid": 3.7939,
+      "effectiveDate": "2019-04-01",
+      "no": "064/C/NBP/2019"
+    },
+    {
+      "ask": 3.8635,
+      "bid": 3.7869,
+      "effectiveDate": "2019-04-02",
+      "no": "065/C/NBP/2019"
+    }
+  ],
+  "table": "C"
+}

@@ -1,0 +1,151 @@
+{
+  "code": "USD",
+  "currency": "dolar amerykański",
+  "rates": [
+    {
+      "ask": 3.7687,
+      "bid": 3.6941,
+      "effectiveDate": "2019-07-01",
+      "no": "125/C/NBP/2019"
+    },
+    {
+      "ask": 3.7775,
+      "bid": 3.7027,
+      "effectiveDate": "2019-07-02",
+      "no": "126/C/NBP/2019"
+    },
+    {
+      "ask": 3.7914,
+      "bid": 3.7164,
+      "effectiveDate": "2019-07-03",
+      "no": "127/C/NBP/2019"
+    },
+    {
+      "ask": 3.7931,
+      "bid": 3.7179,
+      "effectiveDate": "2019-07-04",
+      "no": "128/C/NBP/2019"
+    },
+    {
+      "ask": 3.8001,
+      "bid": 3.7249,
+      "effectiveDate": "2019-07-05",
+      "no": "129/C/NBP/2019"
+    },
+    {
+      "ask": 3.8297,
+      "bid": 3.7539,
+      "effectiveDate": "2019-07-08",
+      "no": "130/C/NBP/2019"
+    },
+    {
+      "ask": 3.8298,
+      "bid": 3.7540,
+      "effectiveDate": "2019-07-09",
+      "no": "131/C/NBP/2019"
+    },
+    {
+      "ask": 3.8423,
+      "bid": 3.7663,
+      "effectiveDate": "2019-07-10",
+      "no": "132/C/NBP/2019"
+    },
+    {
+      "ask": 3.8366,
+      "bid": 3.7606,
+      "effectiveDate": "2019-07-11",
+      "no": "133/C/NBP/2019"
+    },
+    {
+      "ask": 3.8302,
+      "bid": 3.7544,
+      "effectiveDate": "2019-07-12",
+      "no": "134/C/NBP/2019"
+    },
+    {
+      "ask": 3.8328,
+      "bid": 3.7570,
+      "effectiveDate": "2019-07-15",
+      "no": "135/C/NBP/2019"
+    },
+    {
+      "ask": 3.8204,
+      "bid": 3.7448,
+      "effectiveDate": "2019-07-16",
+      "no": "136/C/NBP/2019"
+    },
+    {
+      "ask": 3.8330,
+      "bid": 3.7570,
+      "effectiveDate": "2019-07-17",
+      "no": "137/C/NBP/2019"
+    },
+    {
+      "ask": 3.8389,
+      "bid": 3.7629,
+      "effectiveDate": "2019-07-18",
+      "no": "138/C/NBP/2019"
+    },
+    {
+      "ask": 3.8371,
+      "bid": 3.7611,
+      "effectiveDate": "2019-07-19",
+      "no": "139/C/NBP/2019"
+    },
+    {
+      "ask": 3.8252,
+      "bid": 3.7494,
+      "effectiveDate": "2019-07-22",
+      "no": "140/C/NBP/2019"
+    },
+    {
+      "ask": 3.8226,
+      "bid": 3.7470,
+      "effectiveDate": "2019-07-23",
+      "no": "141/C/NBP/2019"
+    },
+    {
+      "ask": 3.8480,
+      "bid": 3.7718,
+      "effectiveDate": "2019-07-24",
+      "no": "142/C/NBP/2019"
+    },
+    {
+      "ask": 3.8542,
+      "bid": 3.7778,
+      "effectiveDate": "2019-07-25",
+      "no": "143/C/NBP/2019"
+    },
+    {
+      "ask": 3.8477,
+      "bid": 3.7715,
+      "effectiveDate": "2019-07-26",
+      "no": "144/C/NBP/2019"
+    },
+    {
+      "ask": 3.8732,
+      "bid": 3.7966,
+      "effectiveDate": "2019-07-29",
+      "no": "145/C/NBP/2019"
+    },
+    {
+      "ask": 3.8881,
+      "bid": 3.8111,
+      "effectiveDate": "2019-07-30",
+      "no": "146/C/NBP/2019"
+    },
+    {
+      "ask": 3.8892,
+      "bid": 3.8122,
+      "effectiveDate": "2019-07-31",
+      "no": "147/C/NBP/2019"
+    },
+    {
+      "ask": 3.8909,
+      "bid": 3.8139,
+      "effectiveDate": "2019-08-01",
+      "no": "148/C/NBP/2019"
+    }
+  ],
+  "table": "C"
+}
