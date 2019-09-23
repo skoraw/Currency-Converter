@@ -15,7 +15,7 @@ Open browse and write address with pattern:
 http://api.nbp.pl/api/exchangerates/rates/{table}/{code}/{startDate}/{endDate}?format=json
 ```
 where: 
-{table} – typ of table - only "C" for now
-{code} – currency code (standard ISO 4217)
-{startDate}, {endDate} - in format YYYY-MM-DD. Start day must be from 2002.01.02
+* {table} – typ of table - only "C" for now
+* {code} – currency code (standard ISO 4217)
+* {startDate}, {endDate} - in format YYYY-MM-DD. Start day must be from 2002.01.02
 
